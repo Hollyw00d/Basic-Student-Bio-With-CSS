@@ -1,0 +1,41 @@
+body {
+    margin: 0;
+    padding: 0;
+    background: #efeee7;
+}
+
+h1 {
+    background: #333;
+    text-align: center;
+    color: #fff;
+    margin: 0;
+    padding: 10px;
+}
+
+#wrapper {
+    max-width: 960px;
+    margin: 0 auto;
+}
+
+.leftside {
+    float: left;
+    clear: right;
+    width: 75%;
+}
+
+.rightside {
+    float: right;
+    clear: right;
+    width: 25%;
+}
+
+.rightfloatbiotext {
+    float: left;
+    width: 25%;
+}
+
+img {
+    display: block;
+    float: left;
+    padding: 0 20px 20px 0;
+}
